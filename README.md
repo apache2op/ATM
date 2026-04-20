@@ -1,8 +1,6 @@
-# 💳 ATM (Java)
+# 💳 ATM Management System (Java)
 
 A full-featured **ATM Management System** built using **Java**, designed with strong **OOP principles**, secure authentication using **JWT**, and seamless **MySQL database integration** via JDBC. The project uses **Java Swing (JFrame)** to create a graphical user interface.
-
----
 
 ## 🚀 Features
 
@@ -16,8 +14,6 @@ A full-featured **ATM Management System** built using **Java**, designed with st
 * 🔑 PIN Change
 * 🖥️ GUI built using **JFrame (Java Swing)**
 
----
-
 ## 🛠️ Tech Stack
 
 * **Language:** Java (JDK 21)
@@ -30,8 +26,6 @@ A full-featured **ATM Management System** built using **Java**, designed with st
 
   * `mysql-connector-java`
   * `jcalendar`
-
----
 
 ## 📁 Folder Structure
 
@@ -63,6 +57,8 @@ ATM/
     └── jcalendar
 ```
 
+**Copy/paste the files accordingly to this folder structure**
+
 ## 🧠 OOP Concepts Applied
 
 * **Encapsulation:** Protecting sensitive user data (PIN, account details)
@@ -70,7 +66,6 @@ ATM/
 * **Inheritance:** Reusability across transaction-related classes
 * **Polymorphism:** Flexible method handling
 
----
 
 ## 🔗 Database Integration
 
@@ -83,14 +78,12 @@ ATM/
 
 📌 Configure your database credentials inside `Conn.java` before running.
 
----
 
 ## 🔐 Authentication (JWT)
 
 * Implements **JWT-based authentication**
 * Ensures secure session handling and user validation
 
----
 
 ## ⚙️ How to Run
 
@@ -111,14 +104,11 @@ ATM/
 
 5. Run `Login.java`
 
----
 
 ## ⭐ Contribute
 
 Contributions are welcome!
 Fork the repo and submit a pull request 🚀
-
----
 
 ## 📜 License
 
