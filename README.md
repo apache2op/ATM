@@ -93,7 +93,7 @@ ATM/
 
 3. Add required images, classes and JAR files (mandatory) according to the folder structure
 
-4. Install and Setup MySQL Workbench: https://dev.mysql.com/downloads/installer/
+4. Install MySQL workbench from there: https://dev.mysql.com/downloads/installer/ and setup it by watching this guiding video: https://youtu.be/yE6tIle64tU?si=vEbE1Eo7gY3BIwyP&t=594
 
 5. Run `Login.java`
 
