@@ -1,4 +1,4 @@
-# 💳 ATM Management System (Java)
+# 💳 ATM Management System
 
 A full-featured **ATM Management System** built using **Java**, designed with strong **OOP principles**, secure authentication using **JWT**, and seamless **MySQL database integration** via JDBC. The project uses **Java Swing (JFrame)** to create a graphical user interface.
 
@@ -87,18 +87,11 @@ ATM/
 
 ## ⚙️ How to Run
 
-1. Clone the repository:
+1. Download this repository
 
-   ```bash
-   git clone https://github.com/apache2op/ATM.git
-   ```
+2. Open in Eclipse
 
-2. Open in Eclipse / IntelliJ IDEA
-
-3. Add required JAR files:
-
-   * MySQL Connector
-   * JCalendar
+3. Add required images, classes and JAR files (mandatory) according to the folder structure
 
 4. Install and Setup MySQL Workbench: https://dev.mysql.com/downloads/installer/
 
